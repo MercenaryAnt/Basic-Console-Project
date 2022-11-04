@@ -1,0 +1,8 @@
+C:\Users\borab\Desktop\19759005_BoraBerkUzun\19759005_BoraBerkUzun\bin\Debug\19759005_BoraBerkUzun.exe.config
+C:\Users\borab\Desktop\19759005_BoraBerkUzun\19759005_BoraBerkUzun\bin\Debug\19759005_BoraBerkUzun.exe
+C:\Users\borab\Desktop\19759005_BoraBerkUzun\19759005_BoraBerkUzun\bin\Debug\19759005_BoraBerkUzun.pdb
+C:\Users\borab\Desktop\19759005_BoraBerkUzun\19759005_BoraBerkUzun\obj\Debug\19759005_BoraBerkUzun.csproj.CoreCompileInputs.cache
+C:\Users\borab\Desktop\19759005_BoraBerkUzun\19759005_BoraBerkUzun\obj\Debug\19759005_BoraBerkUzun.exe
+C:\Users\borab\Desktop\19759005_BoraBerkUzun\19759005_BoraBerkUzun\obj\Debug\19759005_BoraBerkUzun.pdb
+C:\Users\borab\Desktop\19759005_BoraBerkUzun\19759005_BoraBerkUzun\obj\Debug\19759005_BoraBerkUzun.csproj.AssemblyReference.cache
+C:\Users\borab\Desktop\19759005_BoraBerkUzun\19759005_BoraBerkUzun\obj\Debug\19759005_BoraBerkUzun.csproj.SuggestedBindingRedirects.cache
